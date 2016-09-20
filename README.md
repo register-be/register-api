@@ -1,11 +1,11 @@
-# Register public API
+# Register.be public API
 
 [![Build Status](https://travis-ci.org/register-be/register-api.svg?branch=master)](https://travis-ci.org/register-be/register-api)
 
 
-The *Register public API project* wraps around [Guzzle](http://docs.guzzlephp.org/en/latest/) and offers *HMAC authentication*. You can use the client to easily connect to the Register public API endpoint.
+The *Register.be public API project* wraps around [Guzzle](http://docs.guzzlephp.org/en/latest/) and offers *HMAC authentication*. You can use the client to easily connect to the Register.be public API endpoint.
 
-To learn more about the **Register public API**, go to [https://api.register.be/](https://api.register.be/).
+To learn more about the **Register.be public API**, go to [https://api.register.be/](https://api.register.be/).
 
 ## Install
 

@@ -9,7 +9,7 @@
     stopOnFailure="true"
     bootstrap="tests/bootstrap.php">
     <testsuites>
-        <testsuite name="Register public API testsuite">
+        <testsuite name="Register.be public API testsuite">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

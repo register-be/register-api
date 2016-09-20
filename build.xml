@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="Register public API" default="build" basedir=".">
+<project name="Register.be public API" default="build" basedir=".">
     <target name="build"
             depends="prepare, composer-install, lint, phpunit"/>
 

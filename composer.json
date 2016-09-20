@@ -1,6 +1,6 @@
 {
     "name": "register-be/register-api",
-    "description": "Register public API for customers with direct activation",
+    "description": "Register.be public API for customers with direct activation",
     "require": {
         "guzzlehttp/guzzle": "~6.0"
     },
