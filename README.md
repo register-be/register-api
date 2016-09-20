@@ -1,7 +1,7 @@
 # Register.be public API
 
 [![Build Status](https://travis-ci.org/register-be/register-api.svg?branch=master)](https://travis-ci.org/register-be/register-api)
-
+[![Coverage Status](https://coveralls.io/repos/github/register-be/register-api/badge.svg?branch=master)](https://coveralls.io/github/register-be/register-api?branch=master)
 
 The *Register.be public API project* wraps around [Guzzle](http://docs.guzzlephp.org/en/latest/) and offers *HMAC authentication*. You can use the client to easily connect to the Register.be public API endpoint.
 
